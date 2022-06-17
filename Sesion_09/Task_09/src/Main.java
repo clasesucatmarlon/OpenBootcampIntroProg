@@ -36,9 +36,9 @@ class Person {
 }
 
 class Customer extends Person {
-    int credit;
+    double credit;
 }
 
 class Employee extends Person {
-    int salary;
+    doube salary;
 }
